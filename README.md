@@ -1,4 +1,4 @@
-# strong-approximation-sage
+# Accompanying Sage code for Master's Thesis
 This repository contains sage versions for the algorithms contained in the Master's Thesis "Strong Approximation for a Family of Quadratic Surfaces".
 
 To run the code, you will at least need a local install of sagemath. I believe this will also install jupyter.
