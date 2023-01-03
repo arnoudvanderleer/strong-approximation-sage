@@ -1,4 +1,4 @@
-# Accompanying Sage code for Master's Thesis
+# Accompanying Sage Code for My Master's Thesis
 This repository contains sage versions for the algorithms contained in the Master's Thesis "Strong Approximation for a Family of Quadratic Surfaces".
 
 ## Layout of the repository
